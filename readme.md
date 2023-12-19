@@ -1,0 +1,2 @@
+# Phrase object (with palindrome detector)
+This is an NPM module that I'm using to learn TDD; and it comes from the book [*Learn Enough JavaScript to Be Dangerous*](https://www.learnenough.com/javascript-tutorial) by Michael Hartl.
