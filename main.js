@@ -11,8 +11,10 @@ function palindromeTester() {
     }
 }
 
-let button = document.querySelector("#palindromeTester");
+document.addEventListener("DOMContentLoaded", function() {
+    let button = document.querySelector("#palindromeTester");
 
-button.addEventListener("click", function() {
-    palindromeTester();
+    button.addEventListener("click", function() {
+        palindromeTester();
+    });
 })
